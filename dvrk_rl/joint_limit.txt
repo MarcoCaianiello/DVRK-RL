@@ -1,0 +1,2 @@
+max pi/3 pi/2 0.25 pi pi/2 pi/2
+min -pi/3 -pi/2 0.05 -pi -pi/2 -pi/2
