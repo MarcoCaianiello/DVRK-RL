@@ -1,8 +1,0 @@
-
-	
-<launch>
-
-	<node pkg="dvrk_rl" type="tip_pose" name="tip_pose" output="screen"/>
-	<node pkg="dvrk_rl" type="pub_trajectory.py" name="DDPG" output="screen"/>
-
-</launch>
